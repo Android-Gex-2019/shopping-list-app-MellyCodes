@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Shopping List</string>
+    <string name="item1"></string>
+    <string name="item2"></string>
+    <string name="item3"></string>
+    <string name="item4"></string>
+    <string name="item5"></string>
+    <string name="item6"></string>
+    <string name="item7"></string>
+    <string name="item8"></string>
+    <string name="item9"></string>
+    <string name="item10"></string>
+    <string name="add_item">Add Item</string>
+    <string name="bread">Bread</string>
+    <string name="soy_milk">Soy Milk</string>
+    <string name="rice">Rice</string>
+    <string name="pasta">Pasta</string>
+    <string name="beans">Beans</string>
+    <string name="sriracha">Sriracha</string>
+    <string name="chips">Chips</string>
+    <string name="cheese">Cheese</string>
+    <string name="apples">Apples</string>
+    <string name="potatoes">Potatoes</string>
+    <string name="items_count">Items --- Count</string>
 </resources>
